@@ -8,5 +8,16 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lstasio5/starwarspractice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lstasio5/starwarspractice/issues"
+  },
+  "homepage": "https://github.com/lstasio5/starwarspractice#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
